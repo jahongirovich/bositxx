@@ -1,0 +1,76 @@
+.main {
+    width: 1440px;
+    height: 1024px;
+    background-color: #CD5D5D  ;
+    margin: 0 auto ;
+    ;
+}
+.teht1 {
+    text-align: center;
+
+}
+.big{
+    display: flex;
+    flex-wrap: wrap;
+}
+.span {
+    color: yellow;
+}
+.card {
+width: 300px;
+height: 300px;
+border: 2px solid red;
+text-align: center;
+background-color: black;
+color: white;
+}
+.card2 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    text-align: center;
+    background-color: black;
+    color: white;   
+}
+.card3 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    text-align: center;
+    background-color: black;
+    color: white;  
+
+}
+.card4 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    text-align: center;
+    background-color: black;
+    color: white;  
+
+}
+.card5 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    text-align: center;
+    background-color: black;
+    color: white;  
+
+
+}
+.card6 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    text-align: center;
+    background-color: black;
+    color: white;  
+
+
+}
+
+
+
+
